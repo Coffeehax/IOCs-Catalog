@@ -1,4 +1,5 @@
 Threat Intel - BlackBasta Ransomware
+Date Added - 8/1/24
 
 SUMMARY: Ransomware gangs exploit VMware ESXi auth bypass in attacks (BlackBasta used for Ransomware)
 
