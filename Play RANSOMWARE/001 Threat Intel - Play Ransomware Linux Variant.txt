@@ -1,0 +1,57 @@
+Threat Intel - Play Ransomware Linux Variant
+Date Added - 7/25/24
+
+Summary: Play Ransomware has evolved to specifically target Linux systems unlike it's past version that only targets Windows OS, focusing on VMware ESXi virtual machines
+
+SOURCE:
+1. https://www.bleepingcomputer.com/news/security/new-play-ransomware-linux-version-targets-vmware-esxi-vms/
+2. https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html
+3. https://www.channele2e.com/brief/vmware-esxi-subjected-to-attacks-with-novel-play-ransomware-for-linux
+4. https://www.trendmicro.com/en_us/research/24/g/new-play-ransomware-linux-variant-targets-esxi-shows-ties-with-p.html
+
+SHA256
+7a55c8391fda90a5d4653fdebe2d685edb662859937e14b6756f45e29b76901d
+fc2b98c4f03a246f6564cc778c03f1f9057510efb578ed3e9d8e8b0e5516bd49
+
+SHA1
+2a5e003764180eb3531443946d2f3c80ffcb2c30
+1c3e42453861bc55cf1a62d689a78a0f40050e6b
+
+MD5
+1fa3574bb8f45497dbbf8421d0444428
+0c2b5dfc2eac5090120c2fe1a684a4a7
+
+IP ADDRESS
+108.61.142.190
+45.76.165.129
+
+DOMAINS
+newspraize.com
+realmacnow.com
+ztqs.info
+zfrb.info
+xzdw.info
+iing.info
+mcmb.info
+lcmr.info
+thfq.info
+hibh.info
+iwqe.info
+ukwc.info
+apkh.info
+vqbl.info
+vgkb.info 
+znuc.info
+jhrd.me
+pkil.me
+kwfw.me
+whry.me
+pxkt.me
+ylvq.me
+flbe.link
+mmhp.link
+gunq.link
+ojry.link
+bltr.me
+
+
