@@ -1,4 +1,5 @@
 Threat Intel - QakBot
+Date Added - 8/1/24
 
 SUMMARY: Ransomware gangs exploit VMware ESXi auth bypass in attacks (Qakbot used for initial access)
 
